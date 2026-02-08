@@ -4,7 +4,6 @@
 
 **Team:** Nandini Talukdar, Suk Jin Chung  
 **Date:** February 2026  
-**Event:** DubsTech Datathon
 
 ---
 

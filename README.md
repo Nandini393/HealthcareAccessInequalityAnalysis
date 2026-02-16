@@ -9,8 +9,8 @@
 
 ## 📄 Full Report
 
-📊 **[View Complete Analysis Report (PDF)](https://drive.google.com/file/d/110b2HqIycVKnnKbJkrfELUhCpZtGLF89/view?usp=sharing)**
-📈 **[View Interactive Tableau Dashboard] (https://public.tableau.com/views/Healthcare_Clustering/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+📊 **[View Complete Analysis Report (PDF)](https://drive.google.com/file/d/110b2HqIycVKnnKbJkrfELUhCpZtGLF89/view?usp=sharing)**  
+📈 **[View Interactive Tableau Dashboard](https://public.tableau.com/views/Healthcare_Clustering/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 
 
